@@ -1,4 +1,3 @@
-```markdown
 # LLM COUNCIL // OPERATIONS DASHBOARD
 
 An asynchronous, highly configurable multi-agent parallel reasoning and decision synthesis platform.
